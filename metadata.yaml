@@ -1,0 +1,30 @@
+_repo: Della-storia-d-Italia-dalle-origini-fino-ai-nostri-giorni-sommario-v-2_47480
+contributor:
+  creator:
+    editor:
+      agent_name: Nicolini, Fausto
+      gutenberg_agent_id: '44337'
+      url: http://www.gutenberg.org/2009/agents/44337
+creator:
+  author:
+    agent_name: Balbo, Cesare, conte
+    birthdate: 1789
+    deathdate: 1853
+    gutenberg_agent_id: '8896'
+    url: http://www.gutenberg.org/2009/agents/8896
+    wikipedia: http://it.wikipedia.org/wiki/Cesare_Balbo
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47480'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History'
+title: Della storia d'Italia dalle origini fino ai nostri giorni, sommario. v. 2
+url: http://www.gutenberg.org/ebooks/47480
