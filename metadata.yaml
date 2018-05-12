@@ -1,10 +1,14 @@
 _repo: Della-storia-d-Italia-dalle-origini-fino-ai-nostri-giorni-sommario-v-2_47480
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Nicolini, Fausto
       gutenberg_agent_id: '44337'
       url: http://www.gutenberg.org/2009/agents/44337
+covers:
+- cover_type: archival
+  image_path: 47480-h/images/cover.jpg
 creator:
   author:
     agent_name: Balbo, Cesare, conte
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8896
     wikipedia: http://it.wikipedia.org/wiki/Cesare_Balbo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47480#Della-storia-d-Italia-dalle-origini-fino-ai-nostri-giorni-sommario-v-2
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-11-28'
 gutenberg_type: Text
